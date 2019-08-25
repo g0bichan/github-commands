@@ -1,0 +1,14 @@
+ftuforum.com
+freecoursesite.com
+
+
+
+	create new repo
+
+	goto your folder in local machine which you want to upload
+
+	left click > git bash here
+
+	in terminal:
+	-------------
+			
